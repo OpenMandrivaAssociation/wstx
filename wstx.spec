@@ -35,7 +35,7 @@
 Name:           wstx
 Summary:        Woodstox Stax Implementation
 Version:        3.2.1
-Release:        %mkrel 1.0.1
+Release:        %mkrel 1.0.2
 Epoch:          0
 URL:            http://woodstox.codehaus.org/
 License:        Apache License
