@@ -1,0 +1,15 @@
+--- build.xml.sav	2007-05-27 11:46:41.000000000 +0200
++++ build.xml	2007-05-27 11:47:21.000000000 +0200
+@@ -231,11 +231,11 @@
+         </javac>
+         <!-- 03-Aug-2006, TSa: Let's also compile samples, to ensure they
+                won't get obsolete with impl/api changes
+-          -->
+         <javac SrcDir="${JavaSamplesDir}" destdir="${BuildClassesDir}">
+             <include name="*.java" />
+             <classpath refid="compile-classpath" />
+         </javac>
++          -->
+     </target>
+ 
+     <target name="copy-resources" depends="prepare">
