@@ -230,3 +230,27 @@ fi
 %defattr(0644,root,root,0755)
 %{_docdir}/%{name}-%{version}
 
+
+
+%changelog
+* Sun Sep 20 2009 Thierry Vignaud <tvignaud@mandriva.com> 0:3.2.1-1.0.3mdv2010.0
++ Revision: 445825
+- rebuild
+
+* Fri Mar 06 2009 Antoine Ginies <aginies@mandriva.com> 0:3.2.1-1.0.2mdv2009.1
++ Revision: 350078
+- 2009.1 rebuild
+
+* Fri Dec 28 2007 David Walluck <walluck@mandriva.org> 0:3.2.1-1.0.1mdv2008.1
++ Revision: 138992
+- import wstx
+
+
+* Mon May 28 2007 Ralph Apel <r.apel at r-apel.de> 0:3.2.1-1jpp
+- Upgrade to 3.2.1
+- Add gcj_support option
+- Install poms, depmap frags
+
+* Fri May 05 2006 Ralph Apel <r.apel@r-apel.de> 0:2.9.3-1jpp
+- First build
+
