@@ -37,7 +37,7 @@ Summary:        Woodstox Stax Implementation
 Version:        3.2.1
 Release:        %mkrel 1.0.3
 Epoch:          0
-URL:            http://woodstox.codehaus.org/
+URL:            https://woodstox.codehaus.org/
 License:        Apache License
 Group:          Development/Java
 Source0:         http://woodstox.codehaus.org/3.2.1/wstx-src-3.2.1.tar.gz
